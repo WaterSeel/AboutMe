@@ -1,3 +1,2 @@
 # AboutMe
-Hello! I'm a student at the University of Waterloo, and this git repo is to help me learn git.<br>
-I like cheese, and this is take two.
+Hello! I'm an undergrad student at the University of Waterloo, and I'm studying Electrical Engineering. I'm using this git account for various projects I'll build over my undergrad, including project courses, and personal projects.
